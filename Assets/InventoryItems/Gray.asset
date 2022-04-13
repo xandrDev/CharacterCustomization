@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9f8eaa7b94f4fd45b510618b2f7d66e, type: 3}
+  m_Name: Gray
+  m_EditorClassIdentifier: 
+  _name: Gray
+  _icon: {fileID: 21300000, guid: fbed2cfa9182d304581b8e263f06ff43, type: 3}
+  _price: 204
+  _material: {fileID: 2100000, guid: 2ab4d6be6ee65984390efdbff10275fe, type: 2}
+  IsLocked: 1
